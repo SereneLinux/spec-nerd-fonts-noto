@@ -6,6 +6,7 @@ Group: User Interface/Desktops
 License: NONE
 Packager: kahenteikou
 Vendor: INDETAIL
+BuildArch: noarch
 
 Source0: https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/Noto.zip
 BuildRoot: %{_tmppath}/%{name}-%{version}-buildroot
