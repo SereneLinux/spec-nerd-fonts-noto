@@ -21,7 +21,7 @@ rm -rf $RPM_BUILD_ROOT
 
 %install
 mkdir -p $RPM_BUILD_ROOT/usr/share/fonts/TTF/
-cp  /usr/share/fonts/TTF/Noto Mono Nerd Font Complete.ttf $RPM_BUILD_ROOT/usr/share/fonts/TTF/
+cp  "Noto Mono Nerd Font Complete.ttf" $RPM_BUILD_ROOT/usr/share/fonts/TTF/
 
 
 %clean
