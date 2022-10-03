@@ -1,6 +1,6 @@
 Summary: nerd-fonts-noto-mini
 Name: nerd-fonts-noto-mini
-Version: 2.1.0
+Version: 2.2.2
 Release: 2%{?dist}
 Group: User Interface/Desktops
 License: NONE
@@ -8,7 +8,7 @@ Packager: kahenteikou
 Vendor: INDETAIL
 BuildArch: noarch
 
-Source0: https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/Noto.zip
+Source0: https://github.com/ryanoasis/nerd-fonts/releases/download/v2.2.2/Noto.zip
 BuildRoot: %{_tmppath}/%{name}-%{version}-buildroot
 %global debug_package %{nil}
 %description
